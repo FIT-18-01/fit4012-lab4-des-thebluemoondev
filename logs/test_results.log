@@ -1,0 +1,2 @@
+bash tests/test_sample.sh
+[PASS] Sample test matches.
